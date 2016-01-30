@@ -1,0 +1,212 @@
+@charset "utf-8";
+
+body{
+	background-color:#666;
+}
+
+#cabecera960{
+	font-size:11px;
+	background-image:url(img/im%C3%A1genes/fondos_03.gif);
+	color:#CCC;
+	padding-top:8px;
+	height:28px;
+	
+}
+
+
+
+#cabecera1{
+	padding-top:30px;
+	padding-bottom:30px;
+	background-image:url(img/im%C3%A1genes/im%C3%A1genes/fondoGeneral_03.gif);
+}
+
+
+
+
+
+#cabecera2{
+	padding-top:15px;
+	padding-bottom:0px;
+	border-bottom: solid thin #999;
+	border-top:solid thin #999;
+	background-image:url(img/im%C3%A1genes/im%C3%A1genes/fondoGeneral_03.gif);
+
+}
+
+
+
+#boton1{
+	width:90px;
+}
+
+
+#boton2{
+	width:70px;
+}
+
+#boton3{
+	width:70px;
+}
+
+
+#img_superSkeleton{
+	padding-top:40px;
+	background-image:url(img/im%C3%A1genes/im%C3%A1genes/fondoGeneral_03.gif);
+}
+
+#superSkeleton_img{
+	
+	padding-left:8px;
+	
+}
+
+#TresCajas{
+	
+	background-image:url(img/im%C3%A1genes/im%C3%A1genes/fondoGeneral_03.gif);
+}
+
+#caja1_img{
+	padding-top:40px;
+}
+
+#caja2_img{
+	padding-top:40px;
+}
+
+#caja3_img{
+	padding-top:40px;
+}
+
+
+#texto1{
+	padding-top:20px;
+}
+
+
+#flexible{
+	font-size:15px;
+	color:#000;
+}
+#texto1_parrafo{
+	color:#333;
+}
+
+
+#responsive{
+	font-size:15px;
+	color:#000;
+}
+#texto2_parrafo{
+	color:#333;
+}
+
+
+#minimalist{
+	font-size:15px;
+	color:#000;
+}
+#texto3_parrafo{
+	color:#333;
+}
+
+#cajaImagenes{
+	padding-top:25px;
+	padding-bottom:50px;
+	background-image:url(img/im%C3%A1genes/im%C3%A1genes/fondoGeneral_03.gif);
+}
+
+#cajaAbajo{
+	background-image:url(img/im%C3%A1genes/fondos_11.gif);
+	color:#999;
+	
+}
+
+#about{
+	color:#E9E9E9;
+	padding-left:10px;
+	background-image:url(img/im%C3%A1genes/fondos_07.gif);
+}
+
+
+#twitter{
+	color:#E9E9E9;
+	padding-left:10px;
+	background-image:url(img/im%C3%A1genes/fondos_07.gif);
+}
+
+
+#links{
+	color:#E9E9E9;
+	padding-left:10px;
+	background-image:url(img/im%C3%A1genes/fondos_07.gif);
+}
+
+
+
+#twitter1{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+#twitter2{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+#twitter3{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+
+
+#popular1{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+#popular2{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+#popular3{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+#popular4{
+	padding-bottom:10px;
+	border-bottom:solid thin #000;
+}
+
+#aboutCaja{
+	padding-top:60px;
+}
+
+#twitterCaja{
+	padding-top:60px;
+}
+
+#linksCaja{
+	padding-top:60px;
+}
+
+#responsiveWp{
+	padding-top:60px;
+}
+
+
+
+#pie{
+	color:#CCC;
+	background-image:url(img/im%C3%A1genes/fondos_15.gif);
+	padding-top:20px;
+	
+}
+	
+#powered{
+	padding-right:0px;
+}
+

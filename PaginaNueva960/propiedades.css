@@ -1,0 +1,143 @@
+@charset "utf-8";
+
+
+#cabecera {
+
+font-size:20px;
+color:#666;
+	
+}
+
+
+#carWork{
+	
+	padding-top:58px;
+	margin-left:78px;
+	
+}
+
+
+#weDo{
+	padding-top:58px;
+	margin-left:-30px;
+}
+
+#weChefs{
+	padding-top:58px;
+}
+
+#blog{
+	padding-top:58px;
+	margin-left:-13px;
+	
+}
+
+#contactUs{
+	padding-top:58px;
+	
+}
+
+#webMake{
+	padding-top:80px;
+	color:#060;
+	font-size:59px;
+	padding-bottom:20px;
+	
+}
+
+#texto{
+	padding-top:40px;
+	padding-bottom:40px;
+	border-top:thick solid #030;
+	background:#060;
+	font-size:40px;
+	color:#FFF;
+	
+}
+
+
+#texto2{
+	
+	font-size:45px;
+	margin-left:40px;
+	
+}
+
+#weDoIt{
+	
+	padding-top:60px;
+	padding-bottom:30px;
+	
+}
+
+
+#cajasTexto1{
+	
+	font-size:20px;
+	border-bottom:thick solid #069;
+}
+
+#cajasTexto2{
+	
+	font-size:20px;
+	border-bottom:thick solid #CC0;
+}
+
+#ataquerl{
+	margin-left:20px;
+	padding-top:15px;
+	
+}
+
+#ataquerl2{
+	margin-left:20px;
+	padding-top:15px;
+	padding-bottom:30px;
+}
+
+
+#cajas2{
+	
+	padding-top:30px;
+	
+}
+
+#cajasTexto3{
+	
+	font-size:20px;
+	border-bottom:thick solid #F90;
+}
+
+#cajasTexto4{
+	
+	font-size:20px;
+	border-bottom:thick solid #09F;
+}
+
+#caja4{
+	
+	padding-bottom:90px;
+	
+}
+
+#textoAzul{
+	
+	padding-top:65px;
+	padding-bottom:65px;
+	background-image:url(/PaginaNueva960/img/textura_21.gif);
+	font-size:25px;
+	color:#09C;
+	
+}
+
+#textito{
+	
+	margin-left:85px;
+	
+}
+
+#imagenes1{
+	
+	background-image:url(/PaginaNueva960/img/textura_21.gif);
+	
+}

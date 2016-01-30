@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+body{
+	
+	background:#333;
+	
+}
+
+#cabecera960{
+	
+	background-image:url(img/textura1_01.gif);
+	
+}
+
+
+#logo{
+	
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+#registrate{
+	
+	padding-top:30px;
+	float:right;	
+	color:#FFF;
+}
+
+#boton{
+	
+	background:#0C6;
+	
+}
+
+#fotoPrincipal{
+	background:#000;
+}
+
+#estrenos{
+	background:#FFF;
+	font-size:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#fila1{
+	
+	background:#FFF;
+	
+}
+
+#titulos1{
+	background:#FFF;
+	font-size:18px;
+	
+}
+
+#estrellas1{
+	
+	background:#FFF;
+	
+}
+
+#precios1{
+	background:#FFF;
+	font-size:18px;
+	padding-bottom:20px;
+}
+
+#pie{
+	
+	background-image:url(img/textura2_14.gif);
+	
+}
+
+#contenidoPie{
+	color:#666;
+font-size:14px;
+padding-top:20px;
+padding-bottom:20px;
+	
+}
+
+#tituloPie{
+	
+	color:#FFF;
+	
+}
+
+#redes{
+	
+	padding-top:20px;
+
+}

@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*PASO 1: DEFINIMOS EL ANCHO DEL MENÚ*/
+/*PASO 2: QUITAMOS LOS MÁRGENES, EL PADDING (RELLENO) Y LAS VIÑETAS DE LA LISTA */
+/*PASO 3: 3.1 - DEFINIMOS EL BORDE PARA TODO EL MENÚ (PERO NO EL BORDE DE ABAJO!!) 
+		  3.2 - DEFINIMOS EL BORDE INFERIOR DE TODOS LOS li y asi cerramos el borde y generamos el menú */
+
+/*PASO 4: MODIFICAMOS LOS ESTILOS DE LOS ENLACES DE CADA li:
+			4.1 - QUITAMOS EL SUBRAYADO
+			4.2 - DEFINIMOS EL COLOR DE CADA FUENTE
+			4.3 - HACEMOS QUE CADA ENLACE SEA UN ELEMENTO BLOQUE */
+
+/*PARA TRANSFORMAR EL MENU VERTICAL EN HORIZONTAL ESTABLECEMOS LAS SIGUIENTES PROPIEDADES:
+PARA LA LISTA (ul) --> overflow: hidden;
+					-->quitamos el width definido para el menu vertical
+					-->quitamos el border-bottom y el border-top
+					
+PARA LOS ENLACES (a) DE CADA (li)--> DEFINIMOS EL BORDE DERECHO E IZQUIERDO DE CADA UNO...
+
+SOLO NOS QUEDA AJUSTAR EL BORDE DE TODO EL MENÚ: O BIEN SE LO PONEMOS A CADA li O SI DECIDIMOS
+QUE SEA EL ul QUIEN LO TENGA, AJUSTAREMOS PARA QUE NO NOS SOBRE NADA. */
+
+ul.menu {
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+ /* border: 1px solid #039;*/
+  overflow:hidden;
+}
+
+ul.menu li{
+	/*border-bottom:#000 1ps solid;*/
+	/*border-top:#FF0 1px solid;*/
+	background:#FCC;
+	float:left;
+	width:15%;
+	
+}
+
+ul.menu li a {
+	text-decoration:none;
+	color:#F00;
+	display:block;
+	padding: .2em 0 .2em .5em;
+	border: 1px solid #000;
+  	/*border-right: 1px solid #000;
+	border-top: 1px solid #000;
+	border-bottom:: 1px solid #000;*/
+	
+}
+
+
